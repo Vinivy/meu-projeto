@@ -1,0 +1,10 @@
+/*esse é o style do arquivo 'Frase'*/
+.Container {
+  background-color: rebeccapurple;
+  color: black;
+  border: 1px solid red;
+}
+
+.FraseH1 {
+  color: red;
+}
